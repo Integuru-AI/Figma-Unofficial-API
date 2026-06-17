@@ -4,7 +4,7 @@ Unofficial Python integrations for Figma.
 
 ## Integrations
 
-- `figma_list_drafts.py` - `list_drafts` (7 live events).
+- `figma_list_drafts.py` - `list_drafts`.
 
 ## Usage
 
